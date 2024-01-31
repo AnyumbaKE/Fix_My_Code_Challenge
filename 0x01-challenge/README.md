@@ -1,4 +1,4 @@
-0x01. Fix my code
+# 0x01. Fix my code
 Debugging
  By: Guillaume, CTO at Holberton School
  Weight: 1
@@ -27,8 +27,8 @@ More Info
 Manual QA Review
 It is your responsibility to request a review for this project from a peer before the project’s deadline. If no peers have been reviewed, you should request a review from a TA or staff member.
 
-Tasks
-0. Server status
+## Tasks
+### 0. Server status
 #advanced
 I just started a new Flask project and the first thing I’m putting in place is a route for the status of my API (super important for a load balancer implementation).
 
@@ -48,12 +48,12 @@ $ curl -XGET http://0.0.0.0:5000/api/v1/status
 $
 Repo:
 
-GitHub repository: Fix_My_Code_Challenge
-Directory: 0x01-challenge
-File: status_server/
+- GitHub repository: Fix_My_Code_Challenge
+- Directory: 0x01-challenge
+- File: status_server/
   
-1. My square
-#advanced
+### 1. My square
+
 I love geometry!
 
 Look my square, it’s perfect? No? Should I change something?
